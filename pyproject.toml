@@ -1,0 +1,7 @@
+[project]
+name = "kenshimap"
+version = "0.0.0"
+requires-python = ">=3.14"
+dependencies = [
+    "pillow>=12.2.0",
+]
